@@ -1,3 +1,1 @@
-# MIPS_PrintStar
-
-MIPS練習
+MIPS練習 印星星
